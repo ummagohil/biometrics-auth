@@ -1,4 +1,4 @@
-# 🔑Biometric Auth App
+# 🔑Biometric Auth
 
 Authenticate users with biometric authentication and Supabase.
 
